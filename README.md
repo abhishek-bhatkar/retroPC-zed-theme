@@ -2,6 +2,8 @@
 
 Amber CRT theme for Zed, inspired by the Omarchy RetroPC theme.
 
+![RetroPC theme preview](assets/preview.png)
+
 ## Install
 
 From Zed:
